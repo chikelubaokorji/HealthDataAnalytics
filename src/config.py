@@ -1,0 +1,11 @@
+# Kaggle Credentials
+KAGGLE_USERNAME = 'KAGGLE_USERNAME'
+KAGGLE_KEY = 'KAGGLE_KEY'
+KAGGLE_DATASET = 'tomaslui/healthcare-dataset'
+
+# AWS Credentials
+AWS_ACCESS_KEY_ID = 'AWS_ACCESS_KEY_ID'
+AWS_SECRET_ACCESS_KEY = 'AWS_SECRET_ACCESS_KEY'
+BUCKET_NAME = 'healthdata-v2-bucket'
+SERVICE_NAME = 's3'
+REGION_NAME = 'eu-north-1'
